@@ -33,5 +33,5 @@ Ryzen 5 1500X Amd İşlemci Sorunsuz Sıkıntısız-1.050 TL
 ```bash
 git clone https://github.com/bayrakhasancan/SahibindenProductTableParser.git
 cd SahibindenProductTableParser
-dotnet run -- samples/input.txt
+dotnet run samples/input.txt
 ```
